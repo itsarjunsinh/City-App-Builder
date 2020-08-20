@@ -1,6 +1,6 @@
 # City App Builder
 
-University Project | Submitted: April **2018**
+### University Project | Submitted: April **2018**
 
 The "City Info App Builder" is a Windows based application which allows users to build an Android app with information about their city. The Windows application will output an Android APK which can be installed on Android smartphones.
 

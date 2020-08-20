@@ -4,7 +4,7 @@
 
 The "City Info App Builder" is a Windows based application which allows users to build an Android app with information about their city. The Windows application will output an Android APK which can be installed on Android smartphones.
 
-User does not need to have any experience in programming to build an app using the "City Info App Builder". The user has to just enter data in the Windows application and click on the "Build App" button to generate an APK file.
+Users don't need any experience in programming to build an app using the "City Info App Builder". The user has to just enter data in the Windows application and click the "Build App" button to generate an APK file.
 
 ## Screenshots
 
@@ -14,7 +14,7 @@ User does not need to have any experience in programming to build an app using t
 
 ### City App
 
-Clicking on any items will opem them in Google Maps.
+Clicking on any items will open it in Google Maps.
 
 <span>
 <img src="assets/Home.png" height="350" alt="City App Home Screen">
